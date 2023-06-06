@@ -1,0 +1,591 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/leomac/.gradle/caches/transforms-3/9f79765c67cddb03fc03e2dbf1be3b98/transformed/snapper-0.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0d0decfac537310a225dc8fcb1cd760f/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/32a5e76351c6725ef01dc022d2287035/transformed/navigation-compose-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.chargemap.compose:numberpicker:1.0.3] /Users/leomac/.gradle/caches/transforms-3/43227914868bc73541f83e458618f266/transformed/numberpicker-1.0.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material:1.2.0] /Users/leomac/.gradle/caches/transforms-3/53b6b99d03964cd7b020e964e8deecfd/transformed/material-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.0] /Users/leomac/.gradle/caches/transforms-3/a749ba5924ed1e8831cf18277778e7ba/transformed/activity-compose-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie-compose:5.2.0] /Users/leomac/.gradle/caches/transforms-3/5606767571fcc2238ffc0d1392fa6fd4/transformed/lottie-compose-5.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/leomac/.gradle/caches/transforms-3/b84b49fa44b957388ce54c27403b1bed/transformed/material-ripple-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/leomac/.gradle/caches/transforms-3/f4abebd84dc769c748d13ed796133f78/transformed/foundation-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/leomac/.gradle/caches/transforms-3/3d1f8615e947e773082be253bef4f0b2/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fe1a3ba7eda7304499a768a1caadcdfe/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f28741eb893eca1e48a96ef6e9e28a5e/transformed/lifecycle-viewmodel-compose-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fcd97260cdaf3bdfb42b3d8428b4aad4/transformed/material-icons-extended-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a05f4d35cf8ee628893e89c05093811c/transformed/material-icons-core-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a23904ec7e6237dc2d6d1c822fdc77f2/transformed/foundation-layout-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/leomac/.gradle/caches/transforms-3/05d677d43490e7aa478028a08cb3d85b/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0b148ae2cbf3a17bd05d670365c9621c/transformed/ui-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fa2ee15c820a1c8daffc1a5d77881ef7/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b5d419b6b70e822fb23e8bd12a0b8cb0/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fbf9b277217c21f17a239172cc789541/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/leomac/.gradle/caches/transforms-3/63773de0146c2871050c223d5b9f8f58/transformed/activity-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/65f842f780566ff9499655cbda9bf39d/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f08c5b3c7cdc93697e8f0cdb09af665e/transformed/navigation-common-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/0ca040359e9bb098ca1e5cada21a101e/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/leomac/.gradle/caches/transforms-3/988830458102e0f14daceb9b86cc6d6e/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/leomac/.gradle/caches/transforms-3/5481cd7508387884e134bdeffad6c29e/transformed/ui-text-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/leomac/.gradle/caches/transforms-3/c5fd1805f18ed17410af333987144d8b/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/leomac/.gradle/caches/transforms-3/90aad138c4f5292fdb5665acaa2f13fa/transformed/ui-graphics-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6ba0b441529f9bb6bcd77ef1d76eafc0/transformed/ui-unit-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/leomac/.gradle/caches/transforms-3/8c1e595c0801126c407a028c3f40c46f/transformed/ui-geometry-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9d095cf351efbadfb46b26a41d7c79c3/transformed/runtime-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/leomac/.gradle/caches/transforms-3/903e376165673df15ab2fe1030d7f520/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/leomac/.gradle/caches/transforms-3/61a391e976090d9a17b499d7228f1f29/transformed/hilt-android-2.40.5/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/leomac/.gradle/caches/transforms-3/a6d4e0a8df32857671d039d9014edb91/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/leomac/.gradle/caches/transforms-3/c61992da142f289d3f5b92fa59fe8587/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/leomac/.gradle/caches/transforms-3/b6f266d76c55747c905d90694267d0de/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/leomac/.gradle/caches/transforms-3/c988fb55be47755a47e1f8cee774d9ee/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/leomac/.gradle/caches/transforms-3/c41b18080f86470e66a35a60d999ab42/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/leomac/.gradle/caches/transforms-3/eebcb135e9c581c17136b3b5b0c3dfe1/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/leomac/.gradle/caches/transforms-3/d39ad12fbfdb2d0b68f939a20c10bce1/transformed/lottie-5.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/leomac/.gradle/caches/transforms-3/0cbdb2b08edab5160c1f494ec8146ccf/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leomac/.gradle/caches/transforms-3/815be013a3db72732a0d40746abb80d3/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.0] /Users/leomac/.gradle/caches/transforms-3/60c8862e5cc0b9dbd6c77a4770e6e42f/transformed/activity-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/25101b982c1cf996efdc05e6a9dcbf3c/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1f9baf07e5adc923ed2f753c1d5fc26e/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leomac/.gradle/caches/transforms-3/c5c372e347399344a890f29ba481ce90/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leomac/.gradle/caches/transforms-3/31ed3971883faec0721fa81d810d153a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e865e0b17b13c3986a79264de0dbeb7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/leomac/.gradle/caches/transforms-3/2154e52e9866f42f3052f0c1ea9c66bf/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/leomac/.gradle/caches/transforms-3/d194c8ddd3729f9d911ded2ebe3bd9cd/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1aaaac0faaa8907c4f5a97bee6d5541c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/leomac/.gradle/caches/transforms-3/58751ed82fa243541a986f08d2a1a4ea/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/leomac/.gradle/caches/transforms-3/61d79d2017f8fa0fb0156394f92fcbb4/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/leomac/.gradle/caches/transforms-3/70fe2835aa88324ffc595c1893607d61/transformed/ui-util-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6939cf56929ac8bc1f90a324a72daac8/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a9bcf93012ba2e10df20cea98c7f1752/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0a0518e1a1293f1246169b1e7ced83c7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0bcfef9f471ba00dd23f84cc80aa0bd6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b2c99d453c6bf846bf7c47dbc143e8b4/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a26a580f79d38ced5535e97ea8951a46/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/leomac/.gradle/caches/transforms-3/bd605675c45599763dc1eeb55fa10623/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/leomac/.gradle/caches/transforms-3/2a6a3a17a94b24b6f6ae7af91c5b78f1/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leomac/.gradle/caches/transforms-3/c5893e454f0a5e090a4ce2e870b6afff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leomac/.gradle/caches/transforms-3/0fb018a612e900c5c64a67bc5513f814/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/896c456b6b072b96df35c0357ee28f67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leomac/.gradle/caches/transforms-3/66d173cb1cccbf7d0c7222213dde4478/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/41742dabdc15f196a7c32d9dc1ca378d/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leomac/.gradle/caches/transforms-3/832bbde6e708579a9913cce7e79f394f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/leomac/.gradle/caches/transforms-3/b12c4ba58aafef1f7b98ae28a37b098f/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/leomac/.gradle/caches/transforms-3/61b92fb88e1a8ddbcd2d4d7d7adfe691/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leomac/.gradle/caches/transforms-3/cf03bdce3a926507e77890c9dc8942f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leomac/.gradle/caches/transforms-3/d2e3d692e3c21737251e9687de482de4/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a161e8cafdb73a000eb2f6e9eb207d1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leomac/.gradle/caches/transforms-3/d2244364f8c9ab035ea1ec9323acdce6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leomac/.gradle/caches/transforms-3/78d72df34a7692cce9e366f3c785d9a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e9b5f3fc7b7a9096dab24aea60c61ce/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leomac/.gradle/caches/transforms-3/74043bfc1aa650b8a2d2d1ae1a4bf2c3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b431641388ef48097b33636fc830d992/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/leomac/.gradle/caches/transforms-3/2bc1428c22c400c36e6712fd68658558/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:16:1-19:12
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/leomac/.gradle/caches/transforms-3/faa65911305e1bf040d3d03fe3307d86/transformed/grpc-android-1.44.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/leomac/.gradle/caches/transforms-3/284247542351829578bf30d7f7daf2c8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/leomac/.gradle/caches/transforms-3/eec43dd1ee13e0f98dc6a0e7421406e1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:5:22-74
+application
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/leomac/.gradle/caches/transforms-3/a6d4e0a8df32857671d039d9014edb91/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/leomac/.gradle/caches/transforms-3/a6d4e0a8df32857671d039d9014edb91/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/leomac/.gradle/caches/transforms-3/c61992da142f289d3f5b92fa59fe8587/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/leomac/.gradle/caches/transforms-3/c61992da142f289d3f5b92fa59fe8587/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/leomac/.gradle/caches/transforms-3/c41b18080f86470e66a35a60d999ab42/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/leomac/.gradle/caches/transforms-3/c41b18080f86470e66a35a60d999ab42/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/leomac/.gradle/caches/transforms-3/eebcb135e9c581c17136b3b5b0c3dfe1/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/leomac/.gradle/caches/transforms-3/eebcb135e9c581c17136b3b5b0c3dfe1/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/leomac/.gradle/caches/transforms-3/d39ad12fbfdb2d0b68f939a20c10bce1/transformed/lottie-5.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/leomac/.gradle/caches/transforms-3/d39ad12fbfdb2d0b68f939a20c10bce1/transformed/lottie-5.2.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leomac/.gradle/caches/transforms-3/cf03bdce3a926507e77890c9dc8942f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leomac/.gradle/caches/transforms-3/cf03bdce3a926507e77890c9dc8942f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:12:9-61
+	android:icon
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:10:9-50
+	android:allowBackup
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:14:9-33
+service#ken.projects.infit.data.service.WorkoutTimerService
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:16:9-17:37
+	android:enabled
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:17:13-35
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:16:18-66
+activity#ken.projects.infit.MainActivity
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:18:9-29:20
+	android:screenOrientation
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/leomac/.gradle/caches/transforms-3/9f79765c67cddb03fc03e2dbf1be3b98/transformed/snapper-0.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.2] /Users/leomac/.gradle/caches/transforms-3/9f79765c67cddb03fc03e2dbf1be3b98/transformed/snapper-0.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0d0decfac537310a225dc8fcb1cd760f/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0d0decfac537310a225dc8fcb1cd760f/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/32a5e76351c6725ef01dc022d2287035/transformed/navigation-compose-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/32a5e76351c6725ef01dc022d2287035/transformed/navigation-compose-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.chargemap.compose:numberpicker:1.0.3] /Users/leomac/.gradle/caches/transforms-3/43227914868bc73541f83e458618f266/transformed/numberpicker-1.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.chargemap.compose:numberpicker:1.0.3] /Users/leomac/.gradle/caches/transforms-3/43227914868bc73541f83e458618f266/transformed/numberpicker-1.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material:1.2.0] /Users/leomac/.gradle/caches/transforms-3/53b6b99d03964cd7b020e964e8deecfd/transformed/material-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.0] /Users/leomac/.gradle/caches/transforms-3/53b6b99d03964cd7b020e964e8deecfd/transformed/material-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.0] /Users/leomac/.gradle/caches/transforms-3/a749ba5924ed1e8831cf18277778e7ba/transformed/activity-compose-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.0] /Users/leomac/.gradle/caches/transforms-3/a749ba5924ed1e8831cf18277778e7ba/transformed/activity-compose-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie-compose:5.2.0] /Users/leomac/.gradle/caches/transforms-3/5606767571fcc2238ffc0d1392fa6fd4/transformed/lottie-compose-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie-compose:5.2.0] /Users/leomac/.gradle/caches/transforms-3/5606767571fcc2238ffc0d1392fa6fd4/transformed/lottie-compose-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/leomac/.gradle/caches/transforms-3/b84b49fa44b957388ce54c27403b1bed/transformed/material-ripple-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/leomac/.gradle/caches/transforms-3/b84b49fa44b957388ce54c27403b1bed/transformed/material-ripple-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/leomac/.gradle/caches/transforms-3/f4abebd84dc769c748d13ed796133f78/transformed/foundation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/leomac/.gradle/caches/transforms-3/f4abebd84dc769c748d13ed796133f78/transformed/foundation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/leomac/.gradle/caches/transforms-3/3d1f8615e947e773082be253bef4f0b2/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/leomac/.gradle/caches/transforms-3/3d1f8615e947e773082be253bef4f0b2/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fe1a3ba7eda7304499a768a1caadcdfe/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fe1a3ba7eda7304499a768a1caadcdfe/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f28741eb893eca1e48a96ef6e9e28a5e/transformed/lifecycle-viewmodel-compose-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f28741eb893eca1e48a96ef6e9e28a5e/transformed/lifecycle-viewmodel-compose-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fcd97260cdaf3bdfb42b3d8428b4aad4/transformed/material-icons-extended-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-extended:1.2.0] /Users/leomac/.gradle/caches/transforms-3/fcd97260cdaf3bdfb42b3d8428b4aad4/transformed/material-icons-extended-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a05f4d35cf8ee628893e89c05093811c/transformed/material-icons-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a05f4d35cf8ee628893e89c05093811c/transformed/material-icons-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a23904ec7e6237dc2d6d1c822fdc77f2/transformed/foundation-layout-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/leomac/.gradle/caches/transforms-3/a23904ec7e6237dc2d6d1c822fdc77f2/transformed/foundation-layout-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/leomac/.gradle/caches/transforms-3/05d677d43490e7aa478028a08cb3d85b/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/leomac/.gradle/caches/transforms-3/05d677d43490e7aa478028a08cb3d85b/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0b148ae2cbf3a17bd05d670365c9621c/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0b148ae2cbf3a17bd05d670365c9621c/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fa2ee15c820a1c8daffc1a5d77881ef7/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fa2ee15c820a1c8daffc1a5d77881ef7/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b5d419b6b70e822fb23e8bd12a0b8cb0/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b5d419b6b70e822fb23e8bd12a0b8cb0/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fbf9b277217c21f17a239172cc789541/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/fbf9b277217c21f17a239172cc789541/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/leomac/.gradle/caches/transforms-3/63773de0146c2871050c223d5b9f8f58/transformed/activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.0] /Users/leomac/.gradle/caches/transforms-3/63773de0146c2871050c223d5b9f8f58/transformed/activity-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/65f842f780566ff9499655cbda9bf39d/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/65f842f780566ff9499655cbda9bf39d/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f08c5b3c7cdc93697e8f0cdb09af665e/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/leomac/.gradle/caches/transforms-3/f08c5b3c7cdc93697e8f0cdb09af665e/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/0ca040359e9bb098ca1e5cada21a101e/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/0ca040359e9bb098ca1e5cada21a101e/transformed/lifecycle-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/leomac/.gradle/caches/transforms-3/988830458102e0f14daceb9b86cc6d6e/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/leomac/.gradle/caches/transforms-3/988830458102e0f14daceb9b86cc6d6e/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/leomac/.gradle/caches/transforms-3/5481cd7508387884e134bdeffad6c29e/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/leomac/.gradle/caches/transforms-3/5481cd7508387884e134bdeffad6c29e/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/leomac/.gradle/caches/transforms-3/c5fd1805f18ed17410af333987144d8b/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/leomac/.gradle/caches/transforms-3/c5fd1805f18ed17410af333987144d8b/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/leomac/.gradle/caches/transforms-3/90aad138c4f5292fdb5665acaa2f13fa/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/leomac/.gradle/caches/transforms-3/90aad138c4f5292fdb5665acaa2f13fa/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6ba0b441529f9bb6bcd77ef1d76eafc0/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6ba0b441529f9bb6bcd77ef1d76eafc0/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/leomac/.gradle/caches/transforms-3/8c1e595c0801126c407a028c3f40c46f/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/leomac/.gradle/caches/transforms-3/8c1e595c0801126c407a028c3f40c46f/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9d095cf351efbadfb46b26a41d7c79c3/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9d095cf351efbadfb46b26a41d7c79c3/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/leomac/.gradle/caches/transforms-3/903e376165673df15ab2fe1030d7f520/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/leomac/.gradle/caches/transforms-3/903e376165673df15ab2fe1030d7f520/transformed/hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/leomac/.gradle/caches/transforms-3/61a391e976090d9a17b499d7228f1f29/transformed/hilt-android-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.40.5] /Users/leomac/.gradle/caches/transforms-3/61a391e976090d9a17b499d7228f1f29/transformed/hilt-android-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/leomac/.gradle/caches/transforms-3/a6d4e0a8df32857671d039d9014edb91/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/leomac/.gradle/caches/transforms-3/a6d4e0a8df32857671d039d9014edb91/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/leomac/.gradle/caches/transforms-3/c61992da142f289d3f5b92fa59fe8587/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/leomac/.gradle/caches/transforms-3/c61992da142f289d3f5b92fa59fe8587/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/leomac/.gradle/caches/transforms-3/b6f266d76c55747c905d90694267d0de/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/leomac/.gradle/caches/transforms-3/b6f266d76c55747c905d90694267d0de/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/leomac/.gradle/caches/transforms-3/c988fb55be47755a47e1f8cee774d9ee/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/leomac/.gradle/caches/transforms-3/c988fb55be47755a47e1f8cee774d9ee/transformed/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/leomac/.gradle/caches/transforms-3/c41b18080f86470e66a35a60d999ab42/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/leomac/.gradle/caches/transforms-3/c41b18080f86470e66a35a60d999ab42/transformed/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/leomac/.gradle/caches/transforms-3/eebcb135e9c581c17136b3b5b0c3dfe1/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/leomac/.gradle/caches/transforms-3/eebcb135e9c581c17136b3b5b0c3dfe1/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/leomac/.gradle/caches/transforms-3/d39ad12fbfdb2d0b68f939a20c10bce1/transformed/lottie-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.2.0] /Users/leomac/.gradle/caches/transforms-3/d39ad12fbfdb2d0b68f939a20c10bce1/transformed/lottie-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/leomac/.gradle/caches/transforms-3/0cbdb2b08edab5160c1f494ec8146ccf/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/leomac/.gradle/caches/transforms-3/0cbdb2b08edab5160c1f494ec8146ccf/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leomac/.gradle/caches/transforms-3/815be013a3db72732a0d40746abb80d3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/leomac/.gradle/caches/transforms-3/815be013a3db72732a0d40746abb80d3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/leomac/.gradle/caches/transforms-3/60c8862e5cc0b9dbd6c77a4770e6e42f/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /Users/leomac/.gradle/caches/transforms-3/60c8862e5cc0b9dbd6c77a4770e6e42f/transformed/activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/25101b982c1cf996efdc05e6a9dcbf3c/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0] /Users/leomac/.gradle/caches/transforms-3/25101b982c1cf996efdc05e6a9dcbf3c/transformed/lifecycle-viewmodel-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1f9baf07e5adc923ed2f753c1d5fc26e/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1f9baf07e5adc923ed2f753c1d5fc26e/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leomac/.gradle/caches/transforms-3/c5c372e347399344a890f29ba481ce90/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leomac/.gradle/caches/transforms-3/c5c372e347399344a890f29ba481ce90/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leomac/.gradle/caches/transforms-3/31ed3971883faec0721fa81d810d153a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leomac/.gradle/caches/transforms-3/31ed3971883faec0721fa81d810d153a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e865e0b17b13c3986a79264de0dbeb7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e865e0b17b13c3986a79264de0dbeb7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/leomac/.gradle/caches/transforms-3/2154e52e9866f42f3052f0c1ea9c66bf/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /Users/leomac/.gradle/caches/transforms-3/2154e52e9866f42f3052f0c1ea9c66bf/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/leomac/.gradle/caches/transforms-3/d194c8ddd3729f9d911ded2ebe3bd9cd/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /Users/leomac/.gradle/caches/transforms-3/d194c8ddd3729f9d911ded2ebe3bd9cd/transformed/lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1aaaac0faaa8907c4f5a97bee6d5541c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/leomac/.gradle/caches/transforms-3/1aaaac0faaa8907c4f5a97bee6d5541c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/leomac/.gradle/caches/transforms-3/58751ed82fa243541a986f08d2a1a4ea/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/leomac/.gradle/caches/transforms-3/58751ed82fa243541a986f08d2a1a4ea/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/leomac/.gradle/caches/transforms-3/61d79d2017f8fa0fb0156394f92fcbb4/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/leomac/.gradle/caches/transforms-3/61d79d2017f8fa0fb0156394f92fcbb4/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/leomac/.gradle/caches/transforms-3/70fe2835aa88324ffc595c1893607d61/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/leomac/.gradle/caches/transforms-3/70fe2835aa88324ffc595c1893607d61/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6939cf56929ac8bc1f90a324a72daac8/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/leomac/.gradle/caches/transforms-3/6939cf56929ac8bc1f90a324a72daac8/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a9bcf93012ba2e10df20cea98c7f1752/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a9bcf93012ba2e10df20cea98c7f1752/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0a0518e1a1293f1246169b1e7ced83c7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0a0518e1a1293f1246169b1e7ced83c7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0bcfef9f471ba00dd23f84cc80aa0bd6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/0bcfef9f471ba00dd23f84cc80aa0bd6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b2c99d453c6bf846bf7c47dbc143e8b4/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b2c99d453c6bf846bf7c47dbc143e8b4/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a26a580f79d38ced5535e97ea8951a46/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a26a580f79d38ced5535e97ea8951a46/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/leomac/.gradle/caches/transforms-3/bd605675c45599763dc1eeb55fa10623/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/leomac/.gradle/caches/transforms-3/bd605675c45599763dc1eeb55fa10623/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/leomac/.gradle/caches/transforms-3/2a6a3a17a94b24b6f6ae7af91c5b78f1/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/leomac/.gradle/caches/transforms-3/2a6a3a17a94b24b6f6ae7af91c5b78f1/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leomac/.gradle/caches/transforms-3/c5893e454f0a5e090a4ce2e870b6afff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leomac/.gradle/caches/transforms-3/c5893e454f0a5e090a4ce2e870b6afff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leomac/.gradle/caches/transforms-3/0fb018a612e900c5c64a67bc5513f814/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leomac/.gradle/caches/transforms-3/0fb018a612e900c5c64a67bc5513f814/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/896c456b6b072b96df35c0357ee28f67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leomac/.gradle/caches/transforms-3/896c456b6b072b96df35c0357ee28f67/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leomac/.gradle/caches/transforms-3/66d173cb1cccbf7d0c7222213dde4478/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leomac/.gradle/caches/transforms-3/66d173cb1cccbf7d0c7222213dde4478/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/leomac/.gradle/caches/transforms-3/d0d95519e3e1b61be01774fd8f81a98d/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/41742dabdc15f196a7c32d9dc1ca378d/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] /Users/leomac/.gradle/caches/transforms-3/41742dabdc15f196a7c32d9dc1ca378d/transformed/lifecycle-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leomac/.gradle/caches/transforms-3/832bbde6e708579a9913cce7e79f394f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leomac/.gradle/caches/transforms-3/832bbde6e708579a9913cce7e79f394f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/leomac/.gradle/caches/transforms-3/b12c4ba58aafef1f7b98ae28a37b098f/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /Users/leomac/.gradle/caches/transforms-3/b12c4ba58aafef1f7b98ae28a37b098f/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/leomac/.gradle/caches/transforms-3/61b92fb88e1a8ddbcd2d4d7d7adfe691/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/leomac/.gradle/caches/transforms-3/61b92fb88e1a8ddbcd2d4d7d7adfe691/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leomac/.gradle/caches/transforms-3/cf03bdce3a926507e77890c9dc8942f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/leomac/.gradle/caches/transforms-3/cf03bdce3a926507e77890c9dc8942f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leomac/.gradle/caches/transforms-3/d2e3d692e3c21737251e9687de482de4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leomac/.gradle/caches/transforms-3/d2e3d692e3c21737251e9687de482de4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a161e8cafdb73a000eb2f6e9eb207d1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leomac/.gradle/caches/transforms-3/a161e8cafdb73a000eb2f6e9eb207d1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leomac/.gradle/caches/transforms-3/d2244364f8c9ab035ea1ec9323acdce6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/leomac/.gradle/caches/transforms-3/d2244364f8c9ab035ea1ec9323acdce6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leomac/.gradle/caches/transforms-3/78d72df34a7692cce9e366f3c785d9a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leomac/.gradle/caches/transforms-3/78d72df34a7692cce9e366f3c785d9a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e9b5f3fc7b7a9096dab24aea60c61ce/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leomac/.gradle/caches/transforms-3/6e9b5f3fc7b7a9096dab24aea60c61ce/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leomac/.gradle/caches/transforms-3/74043bfc1aa650b8a2d2d1ae1a4bf2c3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leomac/.gradle/caches/transforms-3/74043bfc1aa650b8a2d2d1ae1a4bf2c3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b431641388ef48097b33636fc830d992/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leomac/.gradle/caches/transforms-3/b431641388ef48097b33636fc830d992/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/leomac/.gradle/caches/transforms-3/2bc1428c22c400c36e6712fd68658558/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.40.5] /Users/leomac/.gradle/caches/transforms-3/2bc1428c22c400c36e6712fd68658558/transformed/dagger-lint-aar-2.40.5/AndroidManifest.xml:18:3-42
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/leomac/.gradle/caches/transforms-3/faa65911305e1bf040d3d03fe3307d86/transformed/grpc-android-1.44.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/leomac/.gradle/caches/transforms-3/faa65911305e1bf040d3d03fe3307d86/transformed/grpc-android-1.44.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/leomac/.gradle/caches/transforms-3/284247542351829578bf30d7f7daf2c8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/leomac/.gradle/caches/transforms-3/284247542351829578bf30d7f7daf2c8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/leomac/.gradle/caches/transforms-3/eec43dd1ee13e0f98dc6a0e7421406e1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/leomac/.gradle/caches/transforms-3/eec43dd1ee13e0f98dc6a0e7421406e1/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leomac/StudioProjects/Infit/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/leomac/.gradle/caches/transforms-3/9ad6a1d8cc6b2dc8d2f7fe8870aef3e9/transformed/ui-tooling-1.2.0/AndroidManifest.xml:25:13-71
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.4] /Users/leomac/.gradle/caches/transforms-3/a2efad50b649df07a78c746e7a60f2dd/transformed/firebase-auth-ktx-21.0.4/AndroidManifest.xml:12:17-116
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/leomac/.gradle/caches/transforms-3/faa65911305e1bf040d3d03fe3307d86/transformed/grpc-android-1.44.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] /Users/leomac/.gradle/caches/transforms-3/faa65911305e1bf040d3d03fe3307d86/transformed/grpc-android-1.44.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.4] /Users/leomac/.gradle/caches/transforms-3/defda9dfa7d1b403419dd2e89b7d2075/transformed/firebase-auth-21.0.4/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.2.1] /Users/leomac/.gradle/caches/transforms-3/5561514049f0b8e0ac1613b3d5ef0338/transformed/firebase-firestore-ktx-24.2.1/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/leomac/.gradle/caches/transforms-3/49390321161875c2ee01e4f86d12f38c/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.2.1] /Users/leomac/.gradle/caches/transforms-3/0e4b07a3fdb5f5dd8cd0dc2b69fc4abb/transformed/firebase-firestore-24.2.1/AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/leomac/.gradle/caches/transforms-3/7bc43ad4078d160936084a42ff0447aa/transformed/firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/leomac/.gradle/caches/transforms-3/a7777bb3d7f841c4f8ff9a6744e9ed58/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/leomac/.gradle/caches/transforms-3/31b4aa3f559c419f51c8451285df441d/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/leomac/.gradle/caches/transforms-3/e8822b250c035c4831d7e7a9b2c9f2bf/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/leomac/.gradle/caches/transforms-3/0999de65daac1ae1c027f76bd64def80/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

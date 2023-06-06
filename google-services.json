@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453274054980",
+    "project_id": "sweater-10c74",
+    "storage_bucket": "sweater-10c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453274054980:android:9c2c154012b14194aae711",
+        "android_client_info": {
+          "package_name": "ken.projects.infit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453274054980-55n948h7hvtcr4uai3smih061f1gcnfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGFBbkC5c_Z8LeTS9HvumrftYAMhxbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453274054980-55n948h7hvtcr4uai3smih061f1gcnfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
